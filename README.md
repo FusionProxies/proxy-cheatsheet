@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=proxy-cheatsheet">
+  <a href="https://fusionproxy.net/?utm_source=github&utm_medium=referral&utm_campaign=proxy-cheatsheet">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-dark.png">
       <img src="https://raw.githubusercontent.com/FusionProxies/.github/main/assets/logo-on-light.png" alt="Fusion Proxy" height="52">
@@ -352,11 +352,11 @@ gsettings set org.gnome.system.proxy mode 'none'      # turn off
 curl https://ipinfo.io/ip     # with the proxy variables set, this prints the proxy's IP
 ```
 
-Or open the [what is my IP](https://fusionproxy.net/tools/my-ip?utm_source=github&utm_medium=proxy-cheatsheet) page, or test a proxy with the [online proxy checker](https://fusionproxy.net/tools/proxy-checker?utm_source=github&utm_medium=proxy-cheatsheet) and the [proxy-checker](https://github.com/FusionProxies/proxy-checker) CLI.
+Or open the [what is my IP](https://fusionproxy.net/tools/my-ip?utm_source=github&utm_medium=referral&utm_campaign=proxy-cheatsheet) page, or test a proxy with the [online proxy checker](https://fusionproxy.net/tools/proxy-checker?utm_source=github&utm_medium=referral&utm_campaign=proxy-cheatsheet) and the [proxy-checker](https://github.com/FusionProxies/proxy-checker) CLI.
 
 The git, npm, pip, Go and cURL commands on this page were run against a live proxy in November 2026. Spotted a tool that is missing or a setting that changed? Open an issue or a pull request.
 
-Need a proxy? [Fusion Proxy](https://fusionproxy.net/?utm_source=github&utm_medium=proxy-cheatsheet) has residential, ISP and datacenter proxies with HTTP(S) and SOCKS5, and a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=proxy-cheatsheet).
+Need a proxy? [Fusion Proxy](https://fusionproxy.net/?utm_source=github&utm_medium=referral&utm_campaign=proxy-cheatsheet) has residential, ISP and datacenter proxies with HTTP(S) and SOCKS5, and a [free trial](https://fusionproxy.net/free-trial?utm_source=github&utm_medium=referral&utm_campaign=proxy-cheatsheet).
 
 ## License
 
